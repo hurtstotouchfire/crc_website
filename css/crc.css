@@ -81,6 +81,10 @@ body {
     background-color: #fff;
 }
 
+#content, #sidebar {
+    padding-bottom: 20px;
+}
+
 #footer {
     background-color: #fff;
     background-image: url(../images/bottom-gradient.gif);
@@ -88,7 +92,7 @@ body {
     background-repeat: repeat-x;
     background-position: left top;
     padding: 20px 0px 20px 0px;
-    
+    text-align: center;
 }
 
 #footer img {
